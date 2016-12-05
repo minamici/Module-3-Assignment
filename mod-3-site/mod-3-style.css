@@ -2,11 +2,27 @@ body {
 	background-color: beige;
 }
 
+h1{
+	float: left;
+	margin-top:auto;
+	margin-bottom: auto;
+}
+
+}
+.navbar-toggle { 
+	margin-top: auto;
+	margin-bottom: auto;	
+}
 
 #nav {
 	background-color: brown;
 	border-radius: 0;
 	border: 0;
+	
+}
+
+.navbar-header {
+	padding: 10px;
 }
 
 
@@ -14,3 +30,6 @@ div.col-md-12 {
 	height: 1500px;
 }
 
+@media (min-width: 768px) {
+
+}
