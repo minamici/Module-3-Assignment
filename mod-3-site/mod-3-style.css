@@ -76,7 +76,7 @@ h3 {
 
 @media (max-width: 767px) {
 	.menu-item {
-		height: auto;
+		height: 700px;
 		padding-bottom: 25px;
 	}
 	div #collapsable-nav {
