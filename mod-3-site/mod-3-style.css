@@ -29,7 +29,7 @@ div #food-header {
 
 div #collapsable-nav{
 	border: 0;
-	background-color: blue; 
+	background-color: brown; 
 	}
 
 .row{
@@ -42,7 +42,6 @@ div #collapsable-nav{
 
 .navbar-header {
 	padding: 10px;
-	background-color: brown;
 }
 
 .menu-item {
@@ -80,5 +79,7 @@ h3 {
 		height: auto;
 		padding-bottom: 25px;
 	}
-
+	div #collapsable-nav {
+		background-color: blue;
+	}
 }
