@@ -63,18 +63,7 @@ h3 {
 }
 
 
-@media (min-width: 992px) {
-	div #collapsable-nav {
-		background-color: brown;
-	}
-
-}
-
 @media (min-width: 768px) and (max-width: 991px) {
-	div #collapsable-nav {
-		background-color: brown;
-	}
-
 	.menu-item {
 		height: auto;
 		padding-bottom: 25px;
@@ -86,10 +75,6 @@ h3 {
 }
 
 @media (max-width: 767px) {
-	div #collapsable-nav {
-		background-color: brown;
-	}
-
 	.menu-item {
 		height: auto;
 		padding-bottom: 25px;
